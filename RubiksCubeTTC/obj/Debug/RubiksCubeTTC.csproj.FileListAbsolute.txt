@@ -1,0 +1,8 @@
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\bin\Debug\RubiksCubeTTC.exe.config
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\bin\Debug\RubiksCubeTTC.exe
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\bin\Debug\RubiksCubeTTC.pdb
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\obj\Debug\RubiksCubeTTC.csproj.AssemblyReference.cache
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\obj\Debug\RubiksCubeTTC.csproj.SuggestedBindingRedirects.cache
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\obj\Debug\RubiksCubeTTC.csproj.CoreCompileInputs.cache
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\obj\Debug\RubiksCubeTTC.exe
+C:\Users\kylea\Source\Repos\RubiksCube\RubiksCubeTTC\obj\Debug\RubiksCubeTTC.pdb
