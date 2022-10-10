@@ -14,11 +14,9 @@ namespace RubiksCubeTTC
 
             while (true)
             {
-                userInput = Console.Read().ToString();
-                if()
-                {
-                    return;
-                }
+                userInput = Console.ReadKey().ToString();
+                Console.WriteLine(userInput.ToString());
+                //ProcessInput(userInput);
             }
         }
     }
